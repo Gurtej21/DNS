@@ -1,0 +1,20 @@
+[
+  {
+      "recordName": "example13.com",
+      "recordType": "MX",
+      "recordValue": "10 alt3.aspmx.l.google.com.",
+      "ttl": "300"
+  },
+  {
+      "recordName": "example2.com",
+      "recordType": "MX",
+      "recordValue": "5 alt1.aspmx.l.google.com.",
+      "ttl": "3600"
+  },
+  {
+      "recordName": "www.example3.com",
+      "recordType": "MX",
+      "recordValue": "10 alt4.aspmx.l.google.com.",
+      "ttl": "1800"
+  }
+]
